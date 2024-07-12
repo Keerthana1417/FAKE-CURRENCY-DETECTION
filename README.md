@@ -83,3 +83,21 @@ The project requires the following libraries and dependencies:
 2. Navigate to the project directory
    ```sh
    cd FAKE-CURRENCY-DETECTION
+   
+
+   
+## Contributing
+
+Contributions to this repository are welcome! If you find any issues, have suggestions, or want to improve the code, feel free to submit a pull request.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Keerthana - [keerthanasamala1411@gmail.com](mailto:your.email@example.com)
+
+Project Link: [https://github.com/Keerthana1417/FAKE-CURRENCY-DETECTION]  
+
+### Happy detecting and learning!
