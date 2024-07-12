@@ -87,7 +87,7 @@ The project requires the following libraries and dependencies:
 
 ### Run the main.py script:
     ```sh
-    python main.py
+    app.py
 Use the GUI to upload your dataset, preprocess data, perform train-test split, train the logistic regression model, and visualize results.
 
 ## Contributing
