@@ -83,9 +83,13 @@ The project requires the following libraries and dependencies:
 2. Navigate to the project directory
    ```sh
    cd FAKE-CURRENCY-DETECTION
-   
+## Usage
 
-   
+### Run the main.py script:
+    ```sh
+    python main.py
+Use the GUI to upload your dataset, preprocess data, perform train-test split, train the logistic regression model, and visualize results.
+
 ## Contributing
 
 Contributions to this repository are welcome! If you find any issues, have suggestions, or want to improve the code, feel free to submit a pull request.
