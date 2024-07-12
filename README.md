@@ -81,12 +81,12 @@ The project requires the following libraries and dependencies:
    git clone https://github.com/Keerthana1417/FAKE-CURRENCY-DETECTION.git
    
 2. Navigate to the project directory
-   ```sh
+   
    cd FAKE-CURRENCY-DETECTION
 ## Usage
 
 ### Run the main.py script:
-    ```sh
+   
     app.py
 Use the GUI to upload your dataset, preprocess data, perform train-test split, train the logistic regression model, and visualize results.
 
