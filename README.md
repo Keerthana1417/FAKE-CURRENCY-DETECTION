@@ -1,5 +1,5 @@
 
- FAKE-CURRENCY-DETECTION-USING-ML(Logistic Regression)
+ # FAKE-CURRENCY-DETECTION-USING-ML(Logistic Regression)
 
 Welcome to the **Fake Currency Detector using Logistic Regression** Repository!
 This repository contains the code implementation of a fake currency detector using a logistic regression model. The project aims to identify and classify banknotes as either real or fake based on their features
@@ -55,7 +55,7 @@ The fuel_consumption_graph and bar_graph functions generate bar graphs to visual
 The print_logistic_regression_results function demonstrates how to use the trained model to predict the authenticity of a new banknote based on its features.
 The result (original or fake) is displayed in the text area.
 
-##Demo  
+## Demo  
 https://github.com/user-attachments/assets/ff0bae6d-888a-4f1e-8ccc-64602fa321a0
 
 ## Bar Graph
@@ -73,40 +73,11 @@ The project requires the following libraries and dependencies:
 - `pandas` for data manipulation
 - `scikit-learn` for machine learning
 - `seaborn` and `matplotlib` for visualization
+  
 ## Installation
 
 ### Clone the repository:
 ```sh
 git clone https://github.com/Keerthana1417/FAKE-CURRENCY-DETECTION.git
 
-### Navigate to the project directory:
-```sh
-cd FAKE-CURRENCY-DETECTION
 
-### Install the required libraries:
-```sh
-pip install -r requirements.txt
-
-##Usage
-
-### Run the main.py script:
-```sh
-python main.py
-
-Use the GUI to upload your dataset, preprocess data, perform train-test split, train the logistic regression model, and visualize results.
-
-## Contributing
-
-Contributions to this repository are welcome! If you find any issues, have suggestions, or want to improve the code, feel free to submit a pull request.
-
-## Contact
-
-Keerthana - [keerthanasamala1411@gmail.com]
-
-Project Link: https://github.com/Keerthana1417/FAKE-CURRENCY-DETECTION
-
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-### Happy detecting and learning!#
