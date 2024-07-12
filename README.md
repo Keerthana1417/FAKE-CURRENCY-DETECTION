@@ -76,8 +76,10 @@ The project requires the following libraries and dependencies:
   
 ## Installation
 
-### Clone the repository:
-```sh
-git clone https://github.com/Keerthana1417/FAKE-CURRENCY-DETECTION.git
-
-
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/Keerthana1417/FAKE-CURRENCY-DETECTION.git
+   
+2. Navigate to the project directory
+   ```sh
+   cd FAKE-CURRENCY-DETECTION
